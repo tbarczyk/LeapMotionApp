@@ -1,0 +1,90 @@
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\LeapMotion.exe.config
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.cache
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.Properties.Resources.resources
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\MainWindowView.baml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.g.resources
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\LeapMotion — kopia\LeapMotion\bin\Debug\LeapMotion.exe.config
+C:\Users\Admin\Desktop\LeapMotion — kopia\LeapMotion\obj\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\LeapMotion — kopia\LeapMotion\obj\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\LeapMotion.exe.config
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\Views\MainWindowView.baml
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.cache
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.lref
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\Caliburn.Micro.dll
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\Caliburn.Micro.pdb
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\Caliburn.Micro.xml
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\App.baml
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.g.resources
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.Properties.Resources.resources
+C:\Users\Admin\Desktop\LeapMotion — kopia — kopia (2)\LeapMotion\obj\Debug\LeapMotion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\Caliburn.Micro.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\Caliburn.Micro.pdb
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\Caliburn.Micro.xml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.lref
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\App.baml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\ColorView.baml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\ColorView.g.cs
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\LeapConnectInfoView.baml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\LeapConnectInfoView.g.cs
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\WebCam_Capture.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\LeapMotion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\GameView.baml
+C:\Users\Admin\Desktop\LeapMotion\LeapMotion\obj\Debug\Views\GameView.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\LeapMotion.exe.config
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\LeapMotion.exe
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\LeapMotion.pdb
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\Caliburn.Micro.dll
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\Caliburn.Micro.pdb
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\Caliburn.Micro.xml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\ColorView.baml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\GameView.baml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\LeapConnectInfoView.baml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\MainWindowView.baml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\ColorView.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\GameView.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\LeapConnectInfoView.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.cache
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion_MarkupCompile.lref
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\App.baml
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.g.resources
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.Properties.Resources.resources
+C:\Users\Admin\Desktop\GitProjects\LeapMotionApp\LeapMotion\obj\Debug\LeapMotion.csproj.GenerateResource.Cache

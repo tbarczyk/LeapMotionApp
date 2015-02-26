@@ -1,0 +1,82 @@
+﻿<UserControl    x:Class="LeapMotion.Views.MainWindowView"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+                xmlns:cal="http://www.caliburnproject.org"
+                mc:Ignorable="d" Height="900" Width="1200" 
+                
+                Background="DarkGray"
+                >
+
+
+
+    <Grid Width="1200" Height="900" VerticalAlignment="Top" HorizontalAlignment="Left" Background="DarkGray" Margin="10,0,10,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" Grid.ColumnSpan="3" VerticalAlignment="Top" HorizontalAlignment="Right" Width="1200" Margin="0,0,0,20">
+            <MenuItem Header="File"  Height="30" Width="50">
+                <MenuItem Header="New" />
+                <MenuItem Header="Open" />
+                <MenuItem Header="Save" />
+            </MenuItem>
+            <MenuItem Name="ExitButton" Header="EXIT"  Width="50">
+                
+            </MenuItem>
+        </Menu>
+
+        <ContentControl Margin="15" Name="gameViewModel" Grid.Column="0" Grid.Row ="2" BorderBrush="Beige" BorderThickness="3" />
+
+        <ContentControl Margin="15" Name="colorViewModel" Grid.Column="1" Grid.Row ="1" BorderBrush="Beige" BorderThickness="3" />
+        <!--ContentControl x:Name="ActiveItem"  Margin="15" Grid.ColumnSpan="1" Grid.Column="1" Grid.Row ="1" BorderBrush="Beige" BorderThickness="3" /-->
+        
+        <RepeatButton Content="Up" Grid.Column="0" Grid.Row ="1" 
+              cal:Message.Attach="[Event Click] = [Action IncrementCount(5)]" VerticalAlignment="Top" Margin="0,50,200,0"/>
+        <RepeatButton Name="OpenWindow" Content="Open Windows" Grid.Column="0" Grid.Row ="1"  VerticalAlignment="Top" Margin="0,0,200,0" />
+        <RepeatButton Content="Up 2" Grid.Column="0" Grid.Row ="1" VerticalAlignment="Top" Margin="0,25,200,0">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="Click">
+                    <cal:ActionMessage MethodName="IncrementCount">
+                        <cal:Parameter Value="2"/>
+                    </cal:ActionMessage>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </RepeatButton>
+        <RepeatButton Content="Double" Grid.Column="0" Grid.Row ="1" VerticalAlignment="Top" Margin="0,75,200,0"
+              cal:Message.Attach="[Event Click] = [Action IncrementCount(Count.Text)]"  />
+        <TextBlock  Name="Count" FontSize="80" TextAlignment="Center"  HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Column="0" Grid.Row ="1" />
+        <TextBlock  Text="{Binding LeapInfo}"  HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="50" Grid.Column="1" Grid.Row ="3" />
+        <TextBlock  Text="{Binding LeapCoord[0]}" FontSize="50"  Grid.Column="2" Grid.Row ="3" HorizontalAlignment="Center"  VerticalAlignment="Bottom"/>
+        <Slider x:Name="Delta"  Minimum="0" Maximum="10" VerticalAlignment="Top" Grid.Column="0" Grid.Row ="1" Margin="0,125,0,0" />
+
+        <Button x:Name="IncrementCount" Content="Increment By Slider" Grid.Column="0" Grid.Row ="1" VerticalAlignment="Top" Margin="0,100,200,0"/>
+        <Rectangle Margin="15" Fill="{Binding Color}" Grid.Column="0" Grid.Row ="3" />
+
+        <Canvas Height="300" Width="300" Grid.Column="1" Grid.Row ="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="White">
+            <Line
+            X1="{Binding LeapCoord[0]}" Y1="{Binding LeapCoord[1]}"
+            X2="{Binding LeapCoord[2]}" Y2="{Binding LeapCoord[1]}"
+            Stroke="Black"
+            StrokeThickness="5"/>
+        </Canvas>
+        <Button Content="On" Name="OnButton" HorizontalAlignment="Left" Height="20" Margin="244,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="122"/>
+        <Button Content="Off" Name="OffButton" HorizontalAlignment="Left" Height="23" Margin="244,22,0,0" Grid.Row="1" VerticalAlignment="Top" Width="122"/>
+        <Image Grid.Column="2" Source="{Binding ImageSrc}" Name="ImageBox" Margin="4" Grid.Row="1" />
+        <Button Content="EventAggregator" Name="MakeAggregator" HorizontalAlignment="Left" Height="20" Margin="244,50,0,0" Grid.Row="1" VerticalAlignment="Top" Width="122"/>
+        <TextBox HorizontalAlignment="Left" Height="36" Margin="230,75,0,0" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Text}" VerticalAlignment="Top" Width="155"/>
+
+    </Grid>
+</UserControl>
+
+
